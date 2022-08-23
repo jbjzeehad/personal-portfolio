@@ -14,9 +14,7 @@ h1 {
     text-align: center;
     color: #ffffff;
     padding: 170px;
-
 }
-
 
 #button {
     text-decoration: none;
@@ -24,13 +22,11 @@ h1 {
     padding: 10px 25px;
     border-radius: 5px;
     color: white;
-
 }
 
 .donate-today {
     text-align: center;
     padding: 40px;
-
 }
 
 .amount {
@@ -66,7 +62,6 @@ hr {
 }
 
 .donate-plan {
-
     text-align: center;
     margin: 80px 50px;
 }
@@ -97,15 +92,21 @@ hr {
 }
 
 .activities {
-
     text-align: center;
     margin: 80px 50px;
-
 }
 
 .chart img {
-    width: 100%;
-    padding: 15px;
+    width: 80%;
+    padding: 12px;
+}
+
+.chart a {
+    text-decoration: none;
+    background-color: #6f59ff;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: #ffffff;
 }
 
 #recent {
@@ -113,7 +114,6 @@ hr {
 }
 
 .updates {
-
     text-align: center;
 }
 
@@ -121,7 +121,6 @@ hr {
     background-color: #FFF4D6;
     margin: 20px 21.91% 100px 21.91%;
     padding: 80px;
-
 }
 
 .sub-button {
