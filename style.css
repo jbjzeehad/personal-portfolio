@@ -96,11 +96,20 @@ hr {
     background-color: #FFF4D6;
 }
 
-.recent-activities {
+.activities {
 
-    border: 1px solid #422196;
     text-align: center;
+    margin: 80px 50px;
 
+}
+
+.chart img {
+    width: 100%;
+    padding: 15px;
+}
+
+#recent {
+    margin-right: 10px;
 }
 
 .updates {
